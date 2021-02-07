@@ -141,6 +141,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Azure.Table", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Azure.Table.Tests", "tests\MassTransit.Azure.Table.Tests\MassTransit.Azure.Table.Tests.csproj", "{17E04A9B-5DB5-4857-99CD-E9AF22DA00E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.TestComponents", "tests\MassTransit.TestComponents\MassTransit.TestComponents.csproj", "{27DF8220-6885-4E08-89CB-EE56582702D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -744,6 +746,18 @@ Global
 		{17E04A9B-5DB5-4857-99CD-E9AF22DA00E4}.ReleaseUnsigned|Any CPU.Build.0 = Debug|Any CPU
 		{17E04A9B-5DB5-4857-99CD-E9AF22DA00E4}.ReleaseUnsigned|x86.ActiveCfg = Debug|Any CPU
 		{17E04A9B-5DB5-4857-99CD-E9AF22DA00E4}.ReleaseUnsigned|x86.Build.0 = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.Release|x86.Build.0 = Release|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.ReleaseUnsigned|Any CPU.ActiveCfg = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.ReleaseUnsigned|Any CPU.Build.0 = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.ReleaseUnsigned|x86.ActiveCfg = Debug|Any CPU
+		{27DF8220-6885-4E08-89CB-EE56582702D8}.ReleaseUnsigned|x86.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
