@@ -54,4 +54,4 @@ The MassTransit Developer Certification 3-Day course is the surest way to elevat
 
 [1]: https://www.pluralsight.com/courses/masstransit-rabbitmq-scaling-microservices
 [2]: https://improving.com
-[3]: https://improving.com/training/class/mass-transit-certification-course
+[3]: https://improving.com/training/class/masstransit-developer-certification-course
